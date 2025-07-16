@@ -31,10 +31,3 @@
     ├── .index.html
     └── README.md                               # Project documentation 
 
-
-
-<script src="assets/js/jquery-3.2.1.min.js"></script>
-<script src="assets/js/popper.min.js"></script>
-<script src="assets/js/bootstrap.min.js"></script>
-<script src="assets/js/feather.min.js"></script>
-<script src="assets/js/slick.min.js"></script>
